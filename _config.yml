@@ -6,9 +6,9 @@ color:
   saturation: 0.3657629790250212
   rhythmicContrast: 0.6965338157024235
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: wide world
