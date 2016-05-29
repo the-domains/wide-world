@@ -1,0 +1,14 @@
+layout_spectrum: 0.9854641973506659
+typography_spectrum: 0.9084354497026652
+color:
+  brandStrength: 0.3001952227205038
+  lightness: 0.6063386455643922
+  saturation: 0.3657629790250212
+  rhythmicContrast: 0.6965338157024235
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: wide world
